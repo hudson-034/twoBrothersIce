@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O8OmNDVdl+y0FnCONANsMURrganJGYkNWdHJfiu5jnTWKVr+EYdtWKYYwMBqPxXQSew61L0YCcPeboxPbmdnjw==",
+  "dgSpecHash": "5+XsKw4ZU/v+s1Pj/1iCDSVJ+fkp98ploSr/+5tv7gk6kudT6n2TaCTtSwQiaVbsqkZtv4i0T6N9XhDuXd0dGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\TwoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
+  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\twoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
