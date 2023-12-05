@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoBrothersIce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37be177547b2567c704a032dfe718894043dadde")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoBrothersIce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoBrothersIce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

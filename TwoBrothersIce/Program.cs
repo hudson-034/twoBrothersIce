@@ -1,6 +1,9 @@
+using TwoBrothersIce.src.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
-
+//Add scopes
+builder.Services.AddScoped<AppDbContext>();
 
 // Add services to the container.
 
