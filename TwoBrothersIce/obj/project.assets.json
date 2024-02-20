@@ -3316,11 +3316,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hudson\\source\\repos\\twoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
+      "projectUniqueName": "C:\\Users\\Hudson\\source\\repos\\TwoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
       "projectName": "TwoBrothersIce",
-      "projectPath": "C:\\Users\\Hudson\\source\\repos\\twoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
+      "projectPath": "C:\\Users\\Hudson\\source\\repos\\TwoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
       "packagesPath": "C:\\Users\\Hudson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hudson\\source\\repos\\twoBrothersIce\\TwoBrothersIce\\obj\\",
+      "outputPath": "C:\\Users\\Hudson\\source\\repos\\TwoBrothersIce\\TwoBrothersIce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hudson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3343,6 +3343,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3387,7 +3392,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

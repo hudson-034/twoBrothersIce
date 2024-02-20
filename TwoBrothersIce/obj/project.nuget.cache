@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWh7LbLny/fpCqAYe39cvH9wm2nE3lReA0xC0eSQ4ZaeXF4K3O6LoHFjLgQf/5iigpbQJuwnnBNoJR5rAHv4gg==",
+  "dgSpecHash": "STxbs2TpMIjAc9+KyOAxshGKitlMMauwrjJcL/MVMQS59GSA1k+gSq/bxJTODhc/hOdxkbbwzoxGSgZwl6LuIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\twoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
+  "projectFilePath": "C:\\Users\\Hudson\\source\\repos\\TwoBrothersIce\\TwoBrothersIce\\TwoBrothersIce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hudson\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Hudson\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
